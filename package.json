@@ -1,19 +1,17 @@
 {
-  "name": "@ant-design/tools",
-  "version": "14.0.0-alpha.3",
-  "description": "tools for ant design",
+  "name": "rt-ui-tools",
+  "version": "1.0.0",
+  "description": "package tools for rt-ui-cli",
   "keywords": [
     "react",
-    "tools"
+    "tools",
+    "rt-ui-cli",
+    "rt-ui-tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "author": "haixggg@163.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
-  },
-  "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "https://github.com/hxguo/rt-ui-tools.git"
   },
   "license": "MIT",
   "bin": {
