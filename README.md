@@ -4,6 +4,7 @@
 
 1. 增加getWebpackConfig.pkg，获取package.json的配置
 2. 修改配置文件名为tools.config.js
+3. 去掉antd默认的按需引入，改成由组件库自动实现按需引入
 
 其他保持不变
 

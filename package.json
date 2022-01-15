@@ -1,6 +1,6 @@
 {
   "name": "rt-ui-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "package tools for rt-ui-cli",
   "keywords": [
     "react",
